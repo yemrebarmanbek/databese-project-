@@ -1,0 +1,10 @@
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\bin\Debug\veri tabani kayit ekleme silme.exe.config
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\bin\Debug\veri tabani kayit ekleme silme.exe
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\bin\Debug\veri tabani kayit ekleme silme.pdb
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri_tabani_kayit_ekleme_silme.Form1.resources
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri_tabani_kayit_ekleme_silme.Properties.Resources.resources
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri tabani kayit ekleme silme.csproj.GenerateResource.cache
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri tabani kayit ekleme silme.csproj.CoreCompileInputs.cache
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri tabani kayit ekleme silme.exe
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri tabani kayit ekleme silme.pdb
+C:\Users\yunus emre\Desktop\c# veri tabanı islemleri\veri tabani kayit ekleme silme\obj\Debug\veri tabani kayit ekleme silme.csproj.AssemblyReference.cache
